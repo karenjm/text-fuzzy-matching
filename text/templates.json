@@ -1,0 +1,4 @@
+{
+  "templates_build": ["build pr service job", "build job", "build a job"],
+  "templates_status": ["get build status", "get job status", "retrieve build status"]
+}
